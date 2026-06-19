@@ -15,4 +15,3 @@ Lebih aman: 32 vCPU, 96 GB RAM
 Storage: SSD/NVMe, tergantung data StarRocks
  
 Punya kami 1 VM 32 vCPU, 82 GB RAM
- 
